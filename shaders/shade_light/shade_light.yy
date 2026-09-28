@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shade_light",
+  "name":"shade_light",
+  "parent":{
+    "name":"Map",
+    "path":"folders/Map.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
